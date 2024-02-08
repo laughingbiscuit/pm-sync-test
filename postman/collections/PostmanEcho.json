@@ -2,7 +2,7 @@
   "info": {
     "_postman_id": "8d245fdd-52ba-4588-8a7c-24c726683e61",
     "name": "Postman Echo",
-    "description": "# Hello World\\n\\nHere is a markdown description\\n\\n<img src=\"https://voyager.postman.com/logo/postman-logo-icon-orange.svg\">\\n\\n",
+    "description": "# Hello World\n\nHere is a markdown description\n\n<img src=\"https://voyager.postman.com/logo/postman-logo-icon-orange.svg\">",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_uid": "32298813-8d245fdd-52ba-4588-8a7c-24c726683e61"
   },
